@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authponnect",
+        "uuid": 8477330,
+        "checksum": "tnani"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
